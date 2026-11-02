@@ -1,0 +1,6 @@
+{
+  "name": "MY VAULT — خزنتك الرقمية الشخصية",
+  "description": "Personal Digital Identity & Information Vault to store, organize, scan with AI OCR, search, copy, and securely share personal documents and records.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
